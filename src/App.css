@@ -1,0 +1,26 @@
+button{
+	width: 100%;
+	background-color: rgb(220,220,220);
+}
+
+#answer{
+  background-color: grey;
+
+}
+
+div#answer.col-md-12.text-right >p{
+    padding-right: 25px;
+}
+
+body{
+	font-size: 25px;
+}
+
+div.col-md-3.operator{
+  background-color: #FF8C00;
+}
+
+div.col-md-3, .col-md-6, .col-md-12{
+	padding-left: 0px;
+	padding-right: 0px;
+}
